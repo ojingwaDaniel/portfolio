@@ -1,6 +1,6 @@
 section{
     margin: 10rem;
-    /* text-align: center; */
+    padding:  12rem 0;
 }
 h2{
     font-weight: 10rem;
@@ -10,16 +10,14 @@ span{
 }
 .aboutMe{
     display: grid;
-    grid-template-columns: 1fr 1fr;
     grid-gap: 10rem;
-    margin: 0;
-    padding-left: 0;
+    grid-template-columns: 1fr 1fr;
 }
 .mySkills{
     display: flex;
     flex-wrap: wrap;
+    box-sizing: inherit;
 }
 .skills{
-    padding: 1rem 2rem;
-    margin-bottom: 2rem;
+    padding: 20rem;
 }

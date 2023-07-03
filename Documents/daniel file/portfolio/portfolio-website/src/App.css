@@ -1,5 +1,5 @@
 body {
-    box-sizing: border-box;
+    box-sizing: box-sizing;
     position: relative;
     line-height: 1.5;
     font-family: sans-serif;

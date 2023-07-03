@@ -32,7 +32,6 @@ const About = ()=>{
             <div className="skill">REACT.NATIVE</div>
             <div className="skill">NODE.JS</div>
             <div className="skill">MONGO.DB</div>
-            <div></div>
           </div>
         </div>
       </section>

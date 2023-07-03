@@ -1,10 +1,17 @@
-header {
+header{
     position: fixed;
     width: 100%;
     z-index: 1000;
     background: #fff;
     box-shadow: 0 10px 100px rgba(0,0,0,.1);
 }
+.class-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+}
+
 .header-container{
     margin: 0;
     padding: 0;
@@ -14,9 +21,8 @@ header {
     padding: 1rem 5rem;
 }
 ul{
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-gap: 5rem;
+    display: flex;
+
 
 }
 li{
