@@ -1,7 +1,7 @@
 import './header.css'
 function Header(){
     return (
-      <header>
+      <header  className='heade'>
         <div className='class-content'>
           <div className="name-and-image">
             <img src="" alt="" srcset="" />

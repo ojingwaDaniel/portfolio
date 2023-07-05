@@ -1,27 +1,28 @@
 header{
     position: fixed;
     width: 100%;
-    z-index: 1000;
     background: #fff;
     box-shadow: 0 10px 100px rgba(0,0,0,.1);
+    margin-top: 0 ;
 }
 .class-content{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1rem 5rem;
+    padding: 5rem 5rem;
 }
 
 .header-container{
-    margin: 0;
+    margin: 0;    justify-content: space-between;
+
     padding: 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 1rem 5rem;
-}
+} 
 ul{
-    display: flex;
+    display:flex
 
 
 }
